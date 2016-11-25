@@ -1,0 +1,9 @@
+To start mining with Minergate Console miner:
+
+Download miner
+Launch miner with desirable settings:
+minergate-cli -user YOUR-EMAIL -bcn 2 -fcn+xmr 2
+Where YOUR-EMAIL is your login on Minergate, 2 – number of cores.
+If you don’t write the number of cores after coin, Miner will be mining on all cores. Miner will adjust pool ports automatically, you don’t have to write them
+
+ 
